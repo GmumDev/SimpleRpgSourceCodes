@@ -1,0 +1,46 @@
+### Unity (이 레포는 소스 전용이지만, 실수로 에셋/산출물이 들어가는 것을 막습니다)
+Library/
+Temp/
+Obj/
+obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+Assets/
+Packages/
+ProjectSettings/
+*.csproj
+*.sln
+*.unitypackage
+*.apk
+*.aab
+
+### 에셋 바이너리 (재배포 불가)
+*.fbx
+*.dae
+*.blend
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.wav
+*.mp3
+*.ogg
+*.mat
+*.prefab
+*.unity
+*.anim
+*.controller
+*.asset
+*.meta
+
+### 도구 · OS
+.claude/
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
