@@ -7,7 +7,7 @@ Unity 6.3으로 만든 싱글 플레이 RPG의 **C# 소스 코드**입니다. �
 
 코드는 **2026년 4월 발표 시점 기준**입니다.
 
-📄 **[케이스 스터디 — 설계 의도부터 회고까지](https://gmumdev.github.io/projects/simple-rpg.html)**
+📄 **[케이스 스터디 — 설계 의도부터 회고까지](https://gmumdev.github.io/projects/simple-rpg.html](https://gmumdev.github.io/portfolio/projects/simple-rpg.html)**
 
 ---
 
