@@ -60,7 +60,7 @@ Scripts/
 | `Domain/Enemy/EnemyPattern_BurstingInstances.cs` | JobSystem으로 작은 보스 Mesh를 대량 렌더링하는 패턴. |
 | `Event/` | 24개 이벤트 클래스. 발행자와 구독자가 서로를 모르는 구조입니다. |
 
-위 설계에 이르기까지의 시행착오와 아쉬웠던 점은 [케이스 스터디](https://gmumdev.github.io/projects/simple-rpg.html)에 정리했습니다.
+위 설계에 이르기까지의 시행착오와 아쉬웠던 점은 [케이스 스터디](https://gmumdev.github.io/portfolio/projects/simple-rpg.html)에 정리했습니다.
 
 ## 환경
 
